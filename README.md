@@ -9,8 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in **Artifical Intelligence**
 
+<!--- 
 - 🌱 I’m currently working on **Deep Learning**
-
+--->
 - 📫 How to reach me **mervetutar78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
