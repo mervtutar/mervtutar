@@ -16,11 +16,55 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mervetutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervetutar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mervetutar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervetutar" height="40" width="40" />
+  </a>
+  <a href="mailto:mervetutar78@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="gmail" height="60" width="60" />
+  </a>
+</p>
+
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p align="left">
+  
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />&nbsp;
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" />&nbsp;
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus" />&nbsp;
+  <img src="https://img.shields.io/badge/-Matlab-333333?style=flat&logo=mathworks" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />&nbsp;
+  <img src="https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv" />&nbsp;
+  <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy" />&nbsp;
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />&nbsp;
+  <img src="https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn" />&nbsp;
+  <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch" />&nbsp;
+  <img src="https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras" />&nbsp;
+  <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow" />&nbsp;
+  <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn" />&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />&nbsp;
+  <img src="https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface" />&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />&nbsp;
+  <img src="https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi" />&nbsp;
+  <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask" />&nbsp;
+  <img src="https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit" />&nbsp;
+
+  
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode" />&nbsp;
+  <img src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda" />&nbsp;
+  <img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" />&nbsp;
+  <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" />&nbsp;
+
+
+
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervtutar&show_icons=true&locale=en&layout=compact" alt="mervtutar" /></p>
 
